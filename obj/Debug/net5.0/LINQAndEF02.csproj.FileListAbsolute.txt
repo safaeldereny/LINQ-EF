@@ -1,0 +1,16 @@
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.exe
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.deps.json
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.runtimeconfig.json
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.runtimeconfig.dev.json
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.dll
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\bin\Debug\net5.0\LINQAndEF02.pdb
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.AssemblyInfoInputs.cache
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.AssemblyInfo.cs
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.csproj.CoreCompileInputs.cache
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.sourcelink.json
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.dll
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\refint\LINQAndEF02.dll
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.pdb
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\LINQAndEF02.genruntimeconfig.cache
+C:\Users\NV_User\source\repos\LINQAndEF02\LINQAndEF02\obj\Debug\net5.0\ref\LINQAndEF02.dll
